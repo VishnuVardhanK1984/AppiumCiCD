@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T14:03:28 IST" name="All Test Suite" finished-at="2022-01-17T14:03:36 IST" duration-ms="7721">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T14:03:28 IST" name="/Users/vishnuvardhank/Documents/AppiumMobileAutomation/src/test/java/CreateDriverSession.java" finished-at="2022-01-17T14:03:36 IST" duration-ms="7721">
+      <class name="CreateDriverSession">
+        <test-method signature="TestMethod1()[pri:0, instance:CreateDriverSession@4de5031f]" started-at="2022-01-17T14:03:28 IST" name="TestMethod1" finished-at="2022-01-17T14:03:36 IST" duration-ms="7664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod1 -->
+      </class> <!-- CreateDriverSession -->
+    </test> <!-- /Users/vishnuvardhank/Documents/AppiumMobileAutomation/src/test/java/CreateDriverSession.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
